@@ -34,5 +34,4 @@ public class Lektion5_07
         }
         System.out.println( " Dine arrays er " + (ens));
     }
-// Ved ikke lige hvorfor min boolean ikke virker
 }
